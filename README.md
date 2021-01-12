@@ -1,2 +1,2 @@
 # reservation
-this is my second school project
+This is my second school project. It's an online reservation system
